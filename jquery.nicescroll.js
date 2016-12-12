@@ -1,5 +1,5 @@
 /* jquery.nicescroll
--- version 3.5.6
+-- version 3.5.7
 -- copyright 2014-10-09 InuYaksa*2014
 -- licensed under the MIT
 --

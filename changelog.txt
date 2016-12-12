@@ -1,3 +1,7 @@
+Changelog nicescroll release 3.5.7
+- Removed code deprecated in jQuery v3.x
+
+
 Changelog nicescroll release 3.5.4
 http://nicescroll.areaaperta.com/
 https://github.com/inuyaksa/jquery.nicescroll
@@ -37,4 +41,3 @@ TODO
 - check horiz mouse wheel scrolling speed on chrome
 - mouse pan scroll
 - check snappy
-
